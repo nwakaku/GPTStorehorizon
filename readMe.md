@@ -34,8 +34,6 @@ The decision to adopt a rental method over traditional monthly subscriptions is 
 - Express
 - Solidity
 - OpenAI Assistant
-- Chainlink Automation
-- Chainlink Price Feeds
 
 
 ## Accomplishments
