@@ -37,13 +37,6 @@ The decision to adopt a rental method over traditional monthly subscriptions is 
 - Chainlink Automation
 - Chainlink Price Feeds
 
-## Implementation Details
-
-- **Chainlink CCIP Integration**: Seamless communication and data transfer across different blockchains using Chainlink's Cross-Chain Interoperability Protocol (CCIP).
-
-- **Chainlink Automation**: Automated tasks at regular intervals using Chainlink Automation, ensuring efficiency without manual intervention.It runs through the list of NFTs and check for the ones that has expired.It uses the EIP-4907 extension, which adds an expiration date to NFT ownership. This makes it possible for the user to pay for a certain amount of time, and it will expire automatically using the Chainlink Automation.
-
-- **Chainlink Price Feeds**: Dynamic calculation of rent fees in AVAX/LINK to USD on-chain using Chainlink Price Feeds for accurate and real-time conversion rates.
 
 ## Accomplishments
 
@@ -60,5 +53,5 @@ As the AI Dev Advocate Platform evolves, our vision extends beyond the current c
 ## Try It Out
 
 - [GitHub](https://github.com/nwakaku/GPTStore)
-- [Website](https://yourplatformwebsite.com)
+- [Website](https://gptstore.gitbook.io/gptstore-documentation-horizon/)
 ]
