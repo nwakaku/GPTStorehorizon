@@ -52,4 +52,5 @@ As the AI Dev Advocate Platform evolves, our vision extends beyond the current c
 
 - [GitHub](https://github.com/nwakaku/GPTStore)
 - [Website](https://gptstore.gitbook.io/gptstore-documentation-horizon/)
+- [Youtube](https://www.youtube.com/watch?v=HJOp9F2Xlak)
 ]
