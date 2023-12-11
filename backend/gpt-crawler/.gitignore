@@ -1,0 +1,13 @@
+# This file tells Git which files shouldn't be added to source control
+
+.env
+
+.idea
+dist
+node_modules
+apify_storage
+crawlee_storage
+storage
+
+# any output from the crawler
+*.json
